@@ -1,0 +1,29 @@
+div{
+  text-align: center;
+  margin-top: 300px;
+}
+
+button{
+  padding: 0 1rem;
+  color:rgb(67, 67, 67);
+  font-size: 2rem;
+  width: 70px;
+  background-color: rgb(255, 42, 42);
+  border-radius: 10px;
+  border: none;
+}
+
+button:hover{
+  filter: brightness(150%);
+  color:black;
+}
+
+button:last-child{
+  background-color: rgb(40, 242, 40);
+}
+
+span{
+  font-size: 2rem;
+  margin: 0 1.3rem;
+  box-sizing: border-box;
+}
